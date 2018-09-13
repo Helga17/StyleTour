@@ -592,6 +592,11 @@ h3{
 	.sidebar .banner{
 		margin-right: 10px;
 	}
+
+	.social-icons img{
+		display: block;
+		margin-bottom: 3px;
+	}
 	
 	/*menu change
 		.menu-top .container{
@@ -674,6 +679,19 @@ h3{
 
 	.bottom-content .form-inline{
 		margin-bottom: 20px;
+	}
+
+	.footer-menu ul li a{
+		display: block;
+	}
+
+	.social-icons img{
+		display: inline;
+		margin-bottom: 0;
+	}
+
+	.pay{
+		text-align: left;
 	}
 }
 
